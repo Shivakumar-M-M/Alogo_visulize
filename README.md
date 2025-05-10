@@ -18,16 +18,6 @@ Searching: Linear Search, Binary Search
 
 🌙 Clean, responsive UI for light and dark themes
 
-📁 Folder Structure
-bash
-Copy
-Edit
-algorithm-visualizer/
-├── index.html        # Entry point
-├── style.css         # Design and animations
-├── script.js         # Algorithm logic and visualization
-├── README.md         # You're reading it!
-└── assets/           # Icons or images (optional)
 🚀 Getting Started
 Clone this repository or download the ZIP.
 
